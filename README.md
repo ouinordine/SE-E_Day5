@@ -1,10 +1,15 @@
-**SE-DAY5-Technical-Writing**
+<header>
+  
+  # SE-DAY5
+  _Technical-Writing_
 
-*1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?*
+</header>
 
-* Knowing if you're talking to tech experts or regular people really changes how you explain things. If it's tech experts, you can use all the complicated words and assume they know the basics. But if it's regular people, you have to break it down, use simpler words, and explain the background information so they can understand.
+**_1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?_**
 
-*2. What are some strategies to tailor your content to different audience types?*
+Knowing if you're talking to tech experts or regular people really changes how you explain things. If it's tech experts, you can use all the complicated words and assume they know the basics. But if it's regular people, you have to break it down, use simpler words, and explain the background information so they can understand.
+
+**_2. What are some strategies to tailor your content to different audience types?_**
 
 * To make your content work for different people, you have to think about who you're talking to. For experts, you can focus on the details and use all the technical terms. But for people who aren't experts, you should use analogies to explain things, avoid using jargon, and really focus on explaining why something works instead of just how.
 
